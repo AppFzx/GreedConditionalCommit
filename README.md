@@ -11,3 +11,4 @@ Greed kata: http://codingdojo.org/kata/Greed/
 I'm not overly interested in your python code. I assume you know how to use Google and Stack Overflow to make stuff work.
 We'll use our respective experiences as a jumping off point for a discussion on software development in general.
 """
+conditional commit test
