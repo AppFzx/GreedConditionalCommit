@@ -1,6 +1,9 @@
 def test_sum():
     assert sum([1, 2, 3]) == 6, "Should be 6"
 
+def test_fail():
+    assert 1 == 2, "1 == 2 failed"
+
 # def rollNew(cls, howMany):
 #     import random
 #     ret = cls()
@@ -10,4 +13,4 @@ def test_sum():
 
 if __name__ == "__main__":
     test_sum()
-    print("Greedy grin given - committing")
+    test_fail()
